@@ -6,8 +6,6 @@ I build **clean, responsive, and scalable web applications** with modern fronten
 
 ### 🛠️ Tech Stack
 
-**Frontend & UI**
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=fff)
@@ -16,18 +14,12 @@ I build **clean, responsive, and scalable web applications** with modern fronten
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=fff)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge\&logo=shadcnui\&logoColor=fff)
 ![React Flow](https://img.shields.io/badge/React_Flow-FF0072?style=for-the-badge\&logo=react\&logoColor=fff)
-
-**State, Data & APIs**
-
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=fff)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=fff)
-![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge\&logo=axios\&logoColor=fff)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
-**Backend & Tools**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=fff)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge\&logo=axios\&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=fff)
@@ -38,11 +30,11 @@ I build **clean, responsive, and scalable web applications** with modern fronten
 
 🌐 **[ravitejaladi.vercel.app](https://ravitejaladi.vercel.app/)**
 
-### 📊 GitHub
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravitejaladi&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravitejaladi&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravitejaladi&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravitejaladi&layout=compact&hide_border=true&langs_count=8" height="170" />
 </p>
 
 ### 🤝 Connect With Me
