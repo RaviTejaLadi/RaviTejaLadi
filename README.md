@@ -2,7 +2,7 @@
 
 ### ⚛️ React.js Developer | Frontend Engineer
 
-I build **clean, responsive, and scalable web applications** with modern frontend technologies. I enjoy creating reusable components, solving complex UI problems, and building smooth user experiences.
+I build **clean, responsive, and scalable web applications** using modern frontend technologies. I enjoy creating reusable components, solving complex UI problems, and building smooth user experiences.
 
 ---
 
@@ -36,15 +36,20 @@ I build **clean, responsive, and scalable web applications** with modern fronten
 
 ---
 
-### 📊 GitHub
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaviTejaLadi&theme=github_dark" width="100%" />
+  <img
+    src="https://streak-stats.demolab.com/?user=RaviTejaLadi&theme=github-dark-blue&hide_border=true"
+    width="70%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaviTejaLadi&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaviTejaLadi&theme=github_dark" width="48%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RaviTejaLadi&theme=github-compact&hide_border=true&area=true"
+    width="100%"
+  />
 </p>
 
 ---
